@@ -2,7 +2,7 @@
 https://www.notion.so/wakeup-vosk-21f459e1ac2b80fcb491da2442ed2ae5?source=copy_link<br /><br />
 
 **Hi-Telly_en_raspberry-pi_v3_0_0.zip**<br />
-.zip파일은 "Hi Telly"를 wake up word로 만들어 주기 위한 엔진 파일들입니다. 압축 해제시켜 주시면 됩니다.
+"Hi Telly"를 wake up word로 만들어 주기 위한 엔진 파일들입니다. 압축 해제시켜 주시면 됩니다.
 
 **realtime_test.py**<br />
 vosk를 통해 실시간 음성 인식이 되는지 확인할 수 있는 코드입니다. 
