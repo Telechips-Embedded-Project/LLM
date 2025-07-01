@@ -1,0 +1,5 @@
+Model,Time (sec),Transcript
+vosk,0.77,and so my fellow americans ask not what your country can do for you ask what you can do for your country
+vosk-small,0.58,and so my fellow americans as not what your country can do for you ask what you can do for your country
+whisper-base,0.03,and so my fellow americans as not what your country can do for you ask what you can do for your country
+whisper-tiny,0.02,and so my fellow americans as not what your country can do for you ask what you can do for your country
